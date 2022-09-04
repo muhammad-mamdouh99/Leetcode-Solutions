@@ -1,6 +1,6 @@
 # Leet-Code
 
-This repository contains all my solutions on [LeetCode](https://www.leetcode.com) Website.
+This repository contains all my solutions on [LeetCode](https://www.leetcode.com) Online Judge.
 
 I'm solving problems on:
 
