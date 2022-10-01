@@ -1,4 +1,4 @@
-# Leet-Code
+# Leetcode Solutions
 
 This repository contains all my solutions on [LeetCode](https://www.leetcode.com) Online Judge.
 
