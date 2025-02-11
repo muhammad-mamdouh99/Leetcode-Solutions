@@ -12,7 +12,7 @@ I'm solving problems on:
 # LeetCode Topics
 ## Math
 |  |
-| ------- |
+|  |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/muhammad-mamdouh99/Leetcode-Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Array
 |  |
