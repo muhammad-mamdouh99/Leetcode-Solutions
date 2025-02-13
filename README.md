@@ -18,8 +18,10 @@ I'm solving problems on:
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/muhammad-mamdouh99/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/muhammad-mamdouh99/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 ## Simulation
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/muhammad-mamdouh99/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/muhammad-mamdouh99/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
