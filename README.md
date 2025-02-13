@@ -17,6 +17,7 @@ I'm solving problems on:
 ## Array
 |  |
 | ------- |
+| [1603-running-sum-of-1d-array](https://github.com/muhammad-mamdouh99/Leetcode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [2048-build-array-from-permutation](https://github.com/muhammad-mamdouh99/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/muhammad-mamdouh99/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 ## Simulation
@@ -24,4 +25,8 @@ I'm solving problems on:
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/muhammad-mamdouh99/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/muhammad-mamdouh99/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/muhammad-mamdouh99/Leetcode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
