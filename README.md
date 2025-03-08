@@ -17,6 +17,7 @@ I'm solving problems on:
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/muhammad-mamdouh99/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [1580-shuffle-the-array](https://github.com/muhammad-mamdouh99/Leetcode-Solutions/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/muhammad-mamdouh99/Leetcode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/muhammad-mamdouh99/Leetcode-Solutions/tree/master/1791-richest-customer-wealth) |
@@ -35,4 +36,8 @@ I'm solving problems on:
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/muhammad-mamdouh99/Leetcode-Solutions/tree/master/1791-richest-customer-wealth) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/muhammad-mamdouh99/Leetcode-Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
